@@ -30,7 +30,7 @@ pip install -r requirements.txt
     │
     ├── nerf_llff_data     
         └── [fern|flower|fortress|horns|leaves|orchids|room|trex]
-
+</details>
 
 
 ## Quick Start
